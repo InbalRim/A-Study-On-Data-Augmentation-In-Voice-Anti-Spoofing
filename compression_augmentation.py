@@ -5,7 +5,7 @@
 # it will create for each part and for each bitrate.
 # the directories must exist prior.
 #
-# Note - pydub will not run good with Opus. if you want to generate opus data you need to build ffmpeg with
+# Note - pydub will not run good with Opus/vorbis. if you want to generate opus/vorbis data you need to build ffmpeg with
 # libopus (see ffmpeg website for more details)
 #################################################################################################################
 
